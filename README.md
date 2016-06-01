@@ -11,4 +11,5 @@
 >描述：php-fpm主配置文件-fpm.conf
   [下载地址](https://github.com/scholar-ink/conf/blob/master/fpm.conf "php.ini")
 3.  nginx.conf
+>描述：nginx主配置文件-nginx.conf
   
