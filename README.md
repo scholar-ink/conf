@@ -5,7 +5,7 @@
 ----------
 1.  php.ini的配置
 >描述：仅仅一份最简单配置配置好了的php.ini
-  [下载地址](http://example.com/ "php.ini")
+  [下载地址](https://github.com/scholar-ink/conf/blob/master/php.ini "php.ini")
  
 2.  fpm.conf
 3.  nginx.conf
